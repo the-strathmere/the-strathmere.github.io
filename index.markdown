@@ -34,8 +34,8 @@ Be the one of the first to own a Series I of _The Strathmere_!
 
 ![](assets/img/product-photos/The Strathmere - Leather Weekend Bag - A. M. Aiken - 08.jpeg)
 
-<button type="button" class="collapsible">Click or tap for Product Details</button>
-<div class="learn-more">
+<!--<button type="button" class="collapsible">Click or tap for Product Details</button>
+<div class="learn-more">-->
 	<h2>Product Details</h2>
 		<strong>Interior Dimensions** of available space:</strong>
 		<ul>
@@ -55,14 +55,13 @@ Be the one of the first to own a Series I of _The Strathmere_!
 	<p>
 		I default to blending the thread with the chosen leather color: Brown:Brown, Tan:Natural, Black:Black.<br />
 		<br />
-		The hardware defaults to solid brass or brass place (where solid brass is not available). 
+		The hardware defaults to solid brass or brass place (where solid brass is not available).<br />
 		<br />
 		If you would like a different thread color or hardware finish just let me know via message or email: aaron@amaiken.com
 	</p>
-	<strong>Materials</strong>:
+	<strong>Material</strong>:
 		<ul>
 			<li>Vegetable tan, drum-dyed leather</li>
-			<li>Solid brass hardware</li>
 		</ul>
-	<strong>Unlimited lifetime warranty** on leather workmanship.</strong> Details of coverage available at amaiken.com/warranty.
-</div>
+	<strong>Unlimited lifetime warranty on leather workmanship.</strong> Details of coverage available at <a href="https://amaiken.com/pages/shipping-returns-and-warranty-information" title="A. M. Aiken's Warranty and Return Details" target="">amaiken.com/warranty</a>.
+<!--</div>-->
