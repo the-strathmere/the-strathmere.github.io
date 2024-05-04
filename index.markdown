@@ -36,31 +36,33 @@ Be the one of the first to own a Series I of _The Strathmere_!
 
 <button type="button" class="collapsible">Click or tap for Product Details</button>
 <div class="learn-more">
-	## Product Details
-	**Interior Dimensions** of available space:
-	- Length: ~17”
-	- Height: ~14”
-	- Depth: ~11”
-	
-	**Linear Dimensions**: ~42 inches
-	
-	**Total Volume**: ~2,618 cubic inches
-	
-	**Leather color choices**:
-	- Brown (shown in photos)
-	- Tan
-	- Black
-	
-	**Thread and Hardware:**
-	I default to blending the thread with the chosen leather color: Brown:Brown, Tan:Natural, Black:Black.
-	
-	The hardware defaults to solid brass or brass place (where solid brass is not available). 
-	
-	If you would like a different thread color or hardware finish just let me know via message or email: aaron@amaiken.com
-	
-	**Materials:**
-	- Vegetable tan, drum-dyed leather
-	- Solid brass hardware
-	
-	**Unlimited lifetime warranty** on leather workmanship. Details of coverage available at amaiken.com/warranty.
+	<h2>Product Details</h2>
+		<strong>Interior Dimensions** of available space:</strong>
+		<ul>
+			<li>Length: ~17”</li>
+			<li>Height: ~14</li>
+			<li>Depth: ~11”</li>
+		</ul>
+	<strong>Linear Dimensions</strong>: ~42 inches
+	<strong>Total Volume</strong>: ~2,618 cubic inches
+	<strong>Leather color choices</strong>:
+		<ul>
+			<li>Brown (shown in photos)</li>
+			<li>Tan</li>
+			<li>Black</li>
+		</ul>
+	<strong>Thread and Hardware</strong>:
+	<p>
+		I default to blending the thread with the chosen leather color: Brown:Brown, Tan:Natural, Black:Black.<br />
+		<br />
+		The hardware defaults to solid brass or brass place (where solid brass is not available). 
+		<br />
+		If you would like a different thread color or hardware finish just let me know via message or email: aaron@amaiken.com
+	</p>
+	<strong>Materials</strong>:
+		<ul>
+			<li>Vegetable tan, drum-dyed leather</li>
+			<li>Solid brass hardware</li>
+		</ul>
+	<strong>Unlimited lifetime warranty** on leather workmanship.</strong> Details of coverage available at amaiken.com/warranty.
 </div>
