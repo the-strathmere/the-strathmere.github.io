@@ -36,32 +36,36 @@ Be the one of the first to own a Series I of _The Strathmere_!
 
 <!--<button type="button" class="collapsible">Click or tap for Product Details</button>
 <div class="learn-more">-->
-	<h2>Product Details</h2>
-		<strong>Interior Dimensions** of available space:</strong>
-		<ul>
-			<li>Length: ~17”</li>
-			<li>Height: ~14</li>
-			<li>Depth: ~11”</li>
-		</ul>
-	<strong>Linear Dimensions</strong>: ~42 inches
-	<strong>Total Volume</strong>: ~2,618 cubic inches
-	<strong>Leather color choices</strong>:
-		<ul>
-			<li>Brown (shown in photos)</li>
-			<li>Tan</li>
-			<li>Black</li>
-		</ul>
-	<strong>Thread and Hardware</strong>:
-	<p>
-		I default to blending the thread with the chosen leather color: Brown:Brown, Tan:Natural, Black:Black.<br />
-		<br />
-		The hardware defaults to solid brass or brass place (where solid brass is not available).<br />
-		<br />
-		If you would like a different thread color or hardware finish just let me know via message or email: aaron@amaiken.com
-	</p>
-	<strong>Material</strong>:
-		<ul>
-			<li>Vegetable tan, drum-dyed leather</li>
-		</ul>
-	<strong>Unlimited lifetime warranty on leather workmanship.</strong> Details of coverage available at <a href="https://amaiken.com/pages/shipping-returns-and-warranty-information" title="A. M. Aiken's Warranty and Return Details" target="">amaiken.com/warranty</a>.
+<h2>Product Details</h2>
+	<strong>Interior Dimensions** of available space:</strong>
+	<ul>
+		<li>Length: ~17”</li>
+		<li>Height: ~14</li>
+		<li>Depth: ~11”</li>
+	</ul>
+<strong>Linear Dimensions</strong>: ~42 inches
+<strong>Total Volume</strong>: ~2,618 cubic inches
+<strong>Leather color choices</strong>:
+	<ul>
+		<li>Brown (shown in photos)</li>
+		<li>Tan</li>
+		<li>Black</li>
+	</ul>
+<strong>Thread and Hardware</strong>:
+<p>
+	I default to blending the thread with the chosen leather color: Brown:Brown, Tan:Natural, Black:Black.<br />
+	<br />
+	The hardware defaults to solid brass or brass place (where solid brass is not available).<br />
+	<br />
+	If you would like a different thread color or hardware finish just let me know via message or email: aaron@amaiken.com
+</p>
+<strong>Material</strong>:
+	<ul>
+		<li>Vegetable tan, drum-dyed leather</li>
+	</ul>
+<strong>Unlimited lifetime warranty on leather workmanship.</strong> Details of coverage available at <a href="https://amaiken.com/pages/shipping-returns-and-warranty-information" title="A. M. Aiken's Warranty and Return Details" target="">amaiken.com/warranty</a>.
 <!--</div>-->
+
+Buy Now
+
+<a href="/club/" target="_blank" title="Join The Strathmere Club and Buy The Strathmere Leather Weekend Bag at 35% Off">Buy with 35% Off</a>
