@@ -25,6 +25,8 @@ Take that trip, pack this bag, and send a postcard!
 
 ![](assets/img/product-photos/The Strathmere - Leather Weekend Bag - A. M. Aiken - 07.jpeg)
 
+---
+
 ## Annual Quantities are Limited
 My yearly output of _The Strathmere_ is very limited. Once I reach the yearly quantity I will close sales for that given calendar year. 
 
@@ -33,6 +35,16 @@ As this is launching mid-2024 it will be a limited edition in that this Series (
 Be the one of the first to own a Series I of _The Strathmere_!
 
 ![](assets/img/product-photos/The Strathmere - Leather Weekend Bag - A. M. Aiken - 08.jpeg)
+
+---
+
+## _The Strathmere_ Video Walkthrough
+
+Passing the 15-minute mark, this video thoroughly explores every detail of _The Strathmere_ Leather Weekend Bag. Aaron skillfully demonstrates how to pack and unpack _The Strathmere_, emphasizing each feature of this meticulously crafted leather weekend bag. The video also covers the Benefits of Ownership, providing you with a comprehensive understanding of what makes _The Strathmere_ an exceptional choice. 
+
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/117635/16a37ad7-afd6-4449-8a94-6a0fd57abb6a?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
+
+---
 
 ## Product Details
 
@@ -64,6 +76,12 @@ If you would like a different thread color or hardware finish just let me know v
 - Vegetable tan, drum-dyed leather
 
 **Unlimited lifetime warranty on leather workmanship**. Details of coverage available at [amaiken.com/warranty](https://amaiken.com/pages/shipping-returns-and-warranty-information).
+
+---
+
+## Available for Purchase Soon!
+
+If you've made it this far down the page, and certainly if you watched the video above, you are likely interested in purchasing _The Strathmere_. I'll have it available for sale soon! Just enter your email address below and I'll send you an update when the product listing is available 🙂
 
 <script async data-uid="924e3f3ef9" src="https://aaronaiken.ck.page/924e3f3ef9/index.js"></script>
 <!--
