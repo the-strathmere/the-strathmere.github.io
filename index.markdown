@@ -49,11 +49,11 @@ Passing the 15-minute mark, this video thoroughly explores every detail of _The 
 ## Product Details
 
 **Interior Dimensions** of available space:
-- Length: ~17”
-- Height: ~14
-- Depth: ~11”
+- Length: ~17” (~432 mm)
+- Height: ~14" (~356 mm)
+- Depth: ~11” (~279 mm)
 
-**Linear Dimensions**: ~42 inches
+**Linear Dimensions**: ~42 inches (~107 cm)
 
 **Total Volume**: ~2,618 cubic inches, ~43 liters
 
