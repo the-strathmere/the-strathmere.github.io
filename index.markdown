@@ -53,7 +53,7 @@ Passing the 15-minute mark, this video thoroughly explores every detail of _The 
 - Height: ~14" (~356 mm)
 - Depth: ~11” (~279 mm)
 
-**Linear Dimensions**: ~42 inches (~107 cm)
+**Linear Dimensions**: ~42 inches (~107 cm), **cabin size**
 
 **Total Volume**: ~2,618 cubic inches, ~43 liters
 
