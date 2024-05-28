@@ -7,7 +7,7 @@ product: strathmere
 ---
 ![The Strathmere - Leather Weekend Bag - Shown gracefully resting on the porch of a beach house](assets/img/product-photos/The Strathmere - Leather Weekend Bag - A. M. Aiken - 06.jpeg)
 
-The Strathmere is the only leather weekend bag you’ll ever need. With more than 2,600 cubic inches of available volume The Strathmere will effortlessly hold what you need for that much needed long-weekend out of town. I like to pack for Friday, Saturday, Sunday, and Monday. The Strathmere has no problem doing so. Quantities are limited, each bag is numbered.
+**The Strathmere** is the only leather weekend bag you’ll ever need. With more than 2,600 cubic inches of available volume The Strathmere will effortlessly hold what you need for that much needed long-weekend out of town. I like to pack for Friday, Saturday, Sunday, and Monday. The Strathmere has no problem doing so. Quantities are limited, each bag is numbered.
 
 Pack, bring that book, the one you’ve been meaning to read. Coffee on the road. Leave work behind, the sun will set during the drive. 
 
