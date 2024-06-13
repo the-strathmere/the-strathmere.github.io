@@ -79,9 +79,9 @@ If you would like a different thread color or hardware finish just let me know v
 
 ---
 
-## Available for Purchase Soon!
+## Take 10% Off Your Strathmere Purchase
 
-If you've made it this far down the page, and certainly if you watched the video above, you are likely interested in purchasing _The Strathmere_. I'll have it available for sale soon! Just enter your email address below and I'll send you an update when the product listing is available 🙂
+If you've made it this far down the page, and certainly if you watched the video above, you are likely interested in purchasing _The Strathmere_. Enter your email address below and I'll follow-up with a 10% off code for you to use at checkout.
 
 <script async data-uid="924e3f3ef9" src="https://aaronaiken.ck.page/924e3f3ef9/index.js"></script>
 <!--
