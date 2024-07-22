@@ -78,13 +78,3 @@ If you would like a different thread color or hardware finish just let me know v
 **Unlimited lifetime warranty on leather workmanship**. Details of coverage available at [amaiken.com/warranty](https://amaiken.com/pages/shipping-returns-and-warranty-information).
 
 ---
-
-## Take 35% Off Your Strathmere Purchase
-
-If you've made it this far down the page, and certainly if you watched the video above, you are likely interested in purchasing _The Strathmere_. Enter your email address below and I'll follow-up with a 35% off code for you to use at checkout.
-
-<script async data-uid="924e3f3ef9" src="https://aaronaiken.ck.page/924e3f3ef9/index.js"></script>
-<!--
-<button type="button" class="buy-now"><a href="" title="" target="">Buy Now</a></button>
-
-<button type="button" class="join-club"><a href="/club/" target="_blank" title="Join The Strathmere Club and Buy The Strathmere Leather Weekend Bag at 35% Off">Buy with 35% Off</a></button>-->

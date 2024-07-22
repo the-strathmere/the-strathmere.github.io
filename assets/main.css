@@ -1,3 +1,6 @@
+@import url(https://fonts.bunny.net/css?family=dm-serif-display:400);
+@import url(https://fonts.bunny.net/css?family=benne:400|dm-serif-display:400);
+
 /**
  * Reset some basic elements
  */
@@ -30,10 +33,24 @@ body {
  * Set `margin-bottom` to maintain vertical rhythm
  */
 h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
+p, hr, blockquote, pre,
 ul, ol, dl, figure,
 .highlight {
   margin-bottom: 15px;
+}
+
+h1 {
+  font-size: 38px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'DM Serif Display', serif;
+}
+
+p, blockquote, pre,
+ul, ol, dl, figure,
+.highlight {
+  font-family: 'Benne', serif;
 }
 
 /**
@@ -346,6 +363,10 @@ table td {
   width: calc(45% - 30px / 2);
 }
 
+.fine-print {
+  font-size: 12px;
+}
+
 @media screen and (max-width: 800px) {
   .footer-col-1,
   .footer-col-2 {
@@ -421,11 +442,13 @@ table td {
   margin-bottom: 30px;
 }
 .post-content h2 {
-  font-size: 32px;
+  font-size: 30px;
+  font-style: italic;
 }
 @media screen and (max-width: 800px) {
   .post-content h2 {
-    font-size: 28px;
+    font-size: 30px;
+    font-style: italic;
   }
 }
 .post-content h3 {
